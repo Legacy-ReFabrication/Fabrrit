@@ -6,6 +6,7 @@
 - [Fabric CurseForge format](https://github.com/Legacy-ReFabrication/Fabrrit/releases/download/1.0/Fabrrit.CF.zip)
 - [Fabric MultiMC format](https://github.com/Legacy-ReFabrication/Fabrrit/releases/download/1.0/Fabrrit.MMC.zip)
 - [Fabric Modrinth format](https://github.com/Legacy-ReFabrication/Fabrrit/releases/download/1.0/Fabrrit.MR.mrpack)
+- [Fabric Only Mods](https://github.com/Legacy-ReFabrication/Fabrrit/releases/download/1.0/Fabrrit.Mods.zip)
 
 ### Optifine
 **Modpack doesn't support optifine and never will be, if you want optifine features check out [Optifine Alternatives](https://lambdaurora.dev/optifine_alternatives/)**
