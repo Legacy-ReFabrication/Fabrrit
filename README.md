@@ -17,7 +17,7 @@
 - [Basic Nether Ores](https://github.com/cScotPlay/BasicNetherOres)
 - [Better Fps](https://www.curseforge.com/minecraft/mc-mods/better-fps-render-distance) {Close Source}
 - [Bits And Chisels](https://github.com/CoolMineman/BitsAndChisels)
-- [https://github.com/cc-tweaked/cc-restitched](https://github.com/cc-tweaked/cc-restitched)
+- [CC: Restitched](https://github.com/cc-tweaked/cc-restitched)
 - [Cloth API](https://github.com/shedaniel/Cloth)
 - [Cloth Config API](https://github.com/shedaniel/ClothConfig)
 - [Crafty Crashes](https://github.com/Chocohead/Crafty-Crashes)
