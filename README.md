@@ -3,6 +3,9 @@
 <h2 align="center">Welcome to Fabrrit! Recreation of Tekkit idea for 1.18.1 fabric</h2>
 
 ### Downloads
+- [Fabric CurseForge format](https://github.com/Legacy-ReFabrication/Fabrrit/releases/download/1.0/Fabrrit.CF.zip)
+- [Fabric MultiMC format](https://github.com/Legacy-ReFabrication/Fabrrit/releases/download/1.0/Fabrrit.MMC.zip)
+- [Fabric Modrinth format](https://github.com/Legacy-ReFabrication/Fabrrit/releases/download/1.0/Fabrrit.MR.mrpack)
 
 ### Optifine
 **Modpack doesn't support optifine and never will be, if you want optifine features check out [Optifine Alternatives](https://lambdaurora.dev/optifine_alternatives/)**
